@@ -2,7 +2,7 @@ package com.cloud;
 
 public class CloudCloud {
 	
-	private String name2;
+	private String name7;
 
 	
 	
@@ -15,6 +15,7 @@ public class CloudCloud {
 	public void setId(int id1) {
 		this.id1 = id1;
 	}
+	
 	
 
 }
