@@ -2,9 +2,9 @@ package com.cloud;
 
 public class CloudCloud {
 	
-	private String name8;
+	private String name7;
 
-	
+	private String name1;
 	
 	private int id1;
 
