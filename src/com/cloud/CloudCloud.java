@@ -4,8 +4,10 @@ public class CloudCloud {
 	
 	private String name7;
 
+	private String str;
 	
-	private int eee;
+	private int sss;
+	
 	private int id1;
 
 	public int getId1() {
