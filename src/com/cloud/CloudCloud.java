@@ -2,7 +2,7 @@ package com.cloud;
 
 public class CloudCloud {
 	
-	private String name2;
+	private String name3;
 
 	
 	
