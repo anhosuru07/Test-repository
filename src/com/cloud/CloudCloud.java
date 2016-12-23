@@ -6,10 +6,8 @@ public class CloudCloud {
 
 	private String str;
 	
-	private int sss;
-	
 	private int id1;
-
+    private String empname;
 	public int getId1() {
 		return id1;
 	}
