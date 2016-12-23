@@ -4,7 +4,7 @@ public class CloudCloud {
 	
 	private String name7;
 
-	private String name1;
+	private String str;
 	
 	private int id1;
 
